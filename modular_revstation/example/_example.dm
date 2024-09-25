@@ -4,7 +4,7 @@
 	/// Описание модпака
 	desc = "its useless"
 	/// Автор модпака
-	author = "goster"
+	author = "tester"
 
 /datum/modpack/example/pre_initialize()
 	. = ..()
