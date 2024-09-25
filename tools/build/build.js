@@ -222,6 +222,7 @@ export const DmTarget = new Juke.Target({
     'icons/**',
     'interface/**',
     'sound/**',
+    'modular_revstation/**',
     `${DME_NAME}.dme`,
     NamedVersionFile,
   ],
