@@ -6399,4 +6399,7 @@
 #include "interface\fonts\tiny_unicode.dm"
 #include "interface\fonts\vcr_osd_mono.dm"
 #include "modular_revstation\modular_revstation.dme"
+#include "modular_revstation\loadout\_loadout.dm"
+#include "modular_revstation\loadout\code\client.dm"
+#include "modular_revstation\loadout\code\categories\accessories.dm"
 // END_INCLUDE
