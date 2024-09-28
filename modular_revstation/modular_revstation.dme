@@ -3,3 +3,5 @@
 
 // #include "example/example.dme"
 #include "loadout/_loadout.dme"
+#include "rus_announcer/_rus_announcer.dme"
+
